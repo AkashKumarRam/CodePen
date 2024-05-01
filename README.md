@@ -36,7 +36,7 @@ Experience real-time coding with **CodePen: Realtime Online Code Editor**. Built
 
 ![Filter Project](https://github.com/AkashKumarRam/CodePen/assets/114729514/f55878b5-3b43-44ec-af0b-880c18138fa4)
 
-![Coding With Output](https://github.com/AkashKumarRam/CodePen/assets/114729514/4aa601d3-d3a4-44b5-ac85-a1b9d649e0ec)
+![Coding With Output](https://github.com/AkashKumarRam/CodePen/assets/114729514/7ae3395b-8ede-4271-9887-5127b43dfe94)
 
 
 ## Demo
